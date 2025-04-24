@@ -1,5 +1,7 @@
-<!-- Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2AA198&width=800&lines=Hi+there!+I'm+Bijay+Kumar+Mishra;Full-Stack+Developer+%7C+Cloud+%26+DevOps+Engineer;Building+Scalable+Cloud-Native+Apps+%26+Infra+✨" alt="Typing SVG" />
+<!-- Typing SVG: hosted alternative -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Bijay+Kumar+Mishra;Full-Stack+Developer+%7C+Cloud+%26+DevOps+Engineer;Crafting+Scalable+Cloud-Native+Solutions+☁️" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -37,34 +39,29 @@
 
 ### 🌱 [Tree Plantation and Greenery Tracker](https://github.com/bijaymsra/tree-plantation-tracker)
 > Laravel-powered platform for organizing and participating in eco-events to promote community-driven urban greenery initiatives.
-- ✅ Role-based access (Admin, Proposer, End User)
-- ✅ Event approval and filtering by tree type, date, and location
 
 ---
 
 ### 🚀 [Smart Load Balancer for Microservices](https://github.com/bijaymsra/smart-load-balancer)
-> Kubernetes-based dynamic load balancing system with real-time CPU-based auto-scaling.
-- ✅ Spring Boot microservices + Dockerized + Auto-scaled via HPA
-- ✅ React.js dashboard + Prometheus + Grafana for monitoring
+> Kubernetes-based real-time dynamic load balancing and auto-scaling system with a React dashboard, Prometheus, and Grafana.
 
 ---
 
 ### 🌦️ [Weatherly](https://github.com/bijaymsra/weatherly)
-> Real-time interactive weather forecast web app built using React, Node.js, Express & MySQL.
-- ✅ Clean UI with live data integration
-- ✅ Personalized location-based dashboard
+> Real-time weather forecast web app built with React, Node.js, and MySQL for personalized dashboards and live data.
 
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bijaymsra&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bijaymsra&theme=radical&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bijaymsra&show_icons=true&theme=github_dark&border_radius=10" alt="GitHub Stats" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijaymsra&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bijaymsra&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijaymsra&layout=compact&theme=github_dark" alt="Top Languages"/>
 </p>
 
 ---
@@ -79,4 +76,4 @@
 
 ---
 
-<h3 align="center">✨ Thank you for visiting! Let's build something amazing together.</h3>
+<h3 align="center">✨ Thank you for visiting! Let’s innovate together. ✨</h3>
