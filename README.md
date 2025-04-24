@@ -52,17 +52,6 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bijaymsra&show_icons=true&theme=github_dark&border_radius=10" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijaymsra&layout=compact&theme=github_dark" alt="Top Languages"/>
-</p>
-
----
-
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
@@ -71,6 +60,17 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bijaymsra&label=Profile+Views&color=0e75b6&style=flat" alt="bijaymsra" />
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bijaymsra&show_icons=true&theme=github_dark&border_radius=10" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijaymsra&layout=compact&theme=github_dark" alt="Top Languages"/>
 </p>
 
 
