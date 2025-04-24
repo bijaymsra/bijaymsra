@@ -58,7 +58,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=bijaymsra&show_icons=true&theme=github_dark&border_radius=10" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bijaymsra&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.vercel.app/?user=bijaymsra&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijaymsra&layout=compact&theme=github_dark" alt="Top Languages"/>
