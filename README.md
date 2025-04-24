@@ -37,7 +37,7 @@
 
 <h2 align="center">📦 Featured Projects</h2>
 
-### 🌱 [Tree Plantation and Greenery Tracker](https://github.com/bijaymsra/tree-plantation-tracker)
+### 🌱 [Tree Plantation and Greenery Tracker](https://github.com/bijaymsra/Plantation-Event)
 > Laravel-powered platform for organizing and participating in eco-events to promote community-driven urban greenery initiatives.
 
 ---
