@@ -7,7 +7,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-> Mr. Bijay Kumar Mishra is recognized as a driven and visionary **Full-Stack Developer & Cloud DevOps Engineer**, deeply rooted in core technologies like Java, Python, Bash, React, Spring Boot, Docker, Kubernetes, Terraform, AWS, Jenkins, MySQL, and MongoDB.
+> Mr. Bijay Kumar Mishra is recognized as a driven and visionary **Full-Stack Developer & Cloud DevOps Engineer**, deeply rooted in core technologies like Java, Python, Bash, React, Spring Boot, Docker, Kubernetes, Terraform, AWS, Jenkins, MySQL
 
 - 🔧 Passionate about **microservices, automation & scalable cloud architecture**
 - 🛠️ Devoted to **streamlined CI/CD** and **cloud-native development**
