@@ -64,18 +64,6 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bijaymsra&show_icons=true&theme=github_dark&border_radius=10" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijaymsra&layout=compact&theme=github_dark" alt="Top Languages"/>
-</p>
-
-
----
-
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
