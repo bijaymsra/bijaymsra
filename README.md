@@ -63,9 +63,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bijaymsra&theme=github-compact" alt="GitHub Contribution Graph"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bijaymsra&label=Profile+Views&color=0e75b6&style=flat" alt="bijaymsra" />
-</p>
+</p> -->
 
 ---
 
