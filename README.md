@@ -57,18 +57,6 @@
 
 ---
 
-<!-- <h2 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bijaymsra&theme=github-compact" alt="GitHub Contribution Graph"/>
-</p> -->
-
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bijaymsra&label=Profile+Views&color=0e75b6&style=flat" alt="bijaymsra" />
-</p> -->
-
----
-
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
