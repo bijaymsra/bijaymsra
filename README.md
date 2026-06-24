@@ -57,6 +57,8 @@
 
 ---
 
+
+---
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
@@ -64,8 +66,6 @@
   <a href="mailto:bm.bijaymishra@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://bijaymsra.github.io/bijaymsraa"><img src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
 </p>
-
----
 
 ---
 
