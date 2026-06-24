@@ -37,6 +37,11 @@
 
 <h2 align="center">📦 Featured Projects</h2>
 
+### ☁️ [Attenza – Cloud-Native AI Curriculum Platform](https://github.com/bijaymsra/smart-curriculum-app)
+> Kubernetes-orchestrated educational management platform featuring attendance tracking, analytics, role-based dashboards, AI assistance, auto-scaling, and AWS deployment.
+
+---
+
 ### 🌱 [Tree Plantation and Greenery Tracker](https://github.com/bijaymsra/Plantation-Event)
 > Laravel-powered platform for organizing and participating in eco-events to promote community-driven urban greenery initiatives.
 
